@@ -16,6 +16,7 @@ A mobile application designed to keep users informed with the latest news from v
 - **News API**: For fetching real-time news data.  
 
 ## 📂 **Project Structure**  
+
 ```plaintext  
 ReactNativeNewsApp/  
 ├── components/        # Reusable UI components  
@@ -26,51 +27,49 @@ ReactNativeNewsApp/
 ├── package.json       # Project dependencies and scripts  
 └── README.md          # Documentation  
 
- ⚙️ Installation  
+```  
+
+## 🖼️ **Screenshots**  
+
+Below are some screenshots of the application:  
+
+<img src="https://github.com/user-attachments/assets/00833618-5afb-4b1f-ae2a-b61c31e74123" alt="cAPSTONE-1" height="300" style="object-fit: contain;">  
+<img src="https://github.com/user-attachments/assets/fa92c825-42a7-44b8-9d7d-dd6cf6f764d9" alt="cAPSTONE-2" height="300" style="object-fit: contain;">  
+<img src="https://github.com/user-attachments/assets/62e40ad3-de4c-4278-ae22-a8414a2640ce" alt="cAPSTONE-3" height="300" style="object-fit: contain;">  
+
+## 📜 **How to Run**  
+
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Pratham9880/react-native-news-app.git  
+   git clone https://github.com/your-username/ReactNativeNewsApp.git  
    ```  
+
 2. Navigate to the project directory:  
    ```bash  
-   cd react-native-news-app  
+   cd ReactNativeNewsApp  
    ```  
+
 3. Install dependencies:  
    ```bash  
    npm install  
    ```  
+
 4. Start the app:  
    ```bash  
-   expo start  
+   npm start  
    ```  
 
-## 🌟 Usage  
-1. Open the app on your mobile device or emulator.  
-2. Browse through the latest news or filter by categories.  
-3. Search for specific news articles using the search bar.  
+5. Use an emulator or connect a physical device to test the app via Expo.  
 
-## 📸 Screenshots  
+## 🤝 **Contributions**  
 
-### App Previews  
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/00833618-5afb-4b1f-ae2a-b61c31e74123" alt="Home Screen" height="300" style="object-fit: contain;">
-  <img src="https://github.com/user-attachments/assets/fa92c825-42a7-44b8-9d7d-dd6cf6f764d9" alt="Category View" height="300" style="object-fit: contain;">
-  <img src="https://github.com/user-attachments/assets/62e40ad3-de4c-4278-ae22-a8414a2640ce" alt="Dark Mode" height="300" style="object-fit: contain;">
-</div>  
+Feel free to fork the repository and submit a pull request for enhancements or bug fixes.  
 
-- **Image 1**: Home Screen with trending news.  
-- **Image 2**: Category view showcasing filtered articles.  
-- **Image 3**: Dark mode interface for better readability at night.  
+## 📧 **Contact**  
 
-## 🌐 API Integration  
-- **News API**: Provides real-time data on global news articles.  
-  Get your API key from [https://newsapi.org/](https://newsapi.org/) and add it to the environment file:  
-  ```javascript  
-  const API_KEY = "your_api_key_here";  
-  ```  
-
-## 🤝 Contributing  
-Contributions are welcome! Feel free to fork the repository and submit a pull request.  
-
-
-You can directly copy and paste this into your `README.md` file. Let me know if you’d like any further tweaks! 🚀
+If you have any questions or suggestions, reach out to:  
+- **Name**: Pratham Borde  
+- **Email**: prathamborde43@gmail.com  
+- **GitHub**: [Pratham9880](https://github.com/Pratham9880)  
+- **LinkedIn**: [Pratham Borde](https://linkedin.com/in/pratham-borde-23a2b9254)  
+```
